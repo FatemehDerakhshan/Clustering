@@ -1,4 +1,4 @@
-This project is for machine-learning course I took.This project is for classification part.
+This project is for machine-learning course I took.This project is for clustering part.
 
 link of the tutorial:
 
